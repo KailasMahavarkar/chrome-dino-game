@@ -130,6 +130,6 @@ class Main:
 
 if __name__ == "__main__":
     Main(
-        adjustFrameFactor=1.1
+        adjustFrameFactor=0.2
     ).gameLOOP()
     pygame.quit()

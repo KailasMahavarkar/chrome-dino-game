@@ -1,5 +1,10 @@
 # Chrome Dino Game
 
+<!-- Add an image -->
+![Infinite Dino](
+    /images/chrome_dino_game.jpg
+)
+
 **Infinite Dino** is a simple, fun, endless runner game developed using Python and Pygame. 
 In this game, you control a dinosaur that must jump over cacti to avoid collisions and earn points.
 
