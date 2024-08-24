@@ -26,12 +26,12 @@ To run this game, you'll need the following:
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/infinite-dino.git
+git clone https://github.com/KailasMahavarkar/chrome-dino-game.git
 ```
 
 2. **Navigate to the Directory**:
 ```bash
-cd infinite-dino
+cd chrome-dino-game
 ```
 
 3. **Install the Required Libraries**:
